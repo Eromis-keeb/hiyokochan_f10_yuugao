@@ -1,10 +1,11 @@
-![](https://github.com/Eromis-keeb/hiyokochan_n11_matsukaze/blob/b1bbb1344e28a23c95c7e8dff003ac5ced8861e3/image/480279097-f73fa648-31b9-47ec-b195-29c7eed49437.jpg)
+![IMG_6674](https://github.com/user-attachments/assets/3b0ff36e-be45-4132-8c10-0fe5dbefa0c5)
 # 夕顔,松風,若紫 / hiyokochan_f10, hiyokochan_n11, hiyokochan_f10tg 共通 ビルドガイド
 夕顔/hiyokochan_f10は以下の特徴を備えるマクロパッドです。
 - テンキー配列の10キー
 - 3つのロータリーエンコーダー（プッシュボタン付き）
 - ３つのトグルスイッチによる機能変更（レイヤー変更）
-- 現在の機能把握に便利なLEDインジケーター
+- 現在の機能把握に便利なLED
+インジケーター
 - 自由に柄など（0.5mm以下の紙など）をあしらえる額縁プレート（夕顔、松風、若紫のみ）
 - ※作例では千代切り紙（バックストリートファクトリー製）を使用した例です。キットには同梱されません。  
 
