@@ -94,6 +94,7 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 基板裏面の赤枠の部分にはんだ付けしていきます。
 ![IMG_6978](https://github.com/user-attachments/assets/6da44c1f-37d9-429c-a56c-41e2157881c9)
 ![IMG_6978](https://github.com/user-attachments/assets/1066a164-ddc4-4c4d-a158-0bed5a185879)
+
 <br/>
 <br/>
 
