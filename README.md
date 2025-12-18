@@ -649,7 +649,8 @@ M2ネジ（３−５mm）を使って固定していきます。<br/>
 
 必要に応じて後述するミドルプレートを好みに彩ったりと楽しんでいただければと。<br/>
 お疲れ様でした！！<br/>
-![IMG_7168](https://github.com/user-attachments/assets/40c93db5-04c7-4770-9d93-bf247aee19b2)
+![IMG_7475](https://github.com/user-attachments/assets/9dbe72c9-6e95-4874-b144-b07760048421)
+
 <br/>
 <br/>
 <br/>
@@ -756,7 +757,8 @@ M2ネジ（３−５mm）を使って固定していきます。<br/>
 折り紙としては少々高いですが、その分の価値はあります。<br/>
 是非とも色々な組み合わせを試していただきたいです。<br/>
 素敵なのが出来上がったらSNS等で共有していただけるととても嬉しいです。<br/>
-![IMG_7189](https://github.com/user-attachments/assets/c632f048-5da7-47fb-b099-bceea6f57e60)<br/>
+![IMG_1811](https://github.com/user-attachments/assets/a70d422e-67b8-4ad1-85f9-473922a3fc52)
+
 <br/>
 <br/>
 <br/>
