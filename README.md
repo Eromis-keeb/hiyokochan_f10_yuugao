@@ -65,8 +65,8 @@ AZ1UBALLについてはパレットシステム様よりご購入願います。
 写真でマイコンが既に付いているものがありますが、組み立て上確認しながらやりたい場合は先にマイコンのはんだ付けをしてから作業すると確実になります。<br/>
 但し、はんだ付けに慣れていない場合は、マイコンを付けた状態でLEDやSMDダイオードなど細かい部品は取り付け辛い場合があるため、ここではマイコンを付けない状態を前提として説明をしていきます。<br/>
 
-LED→![IMG_5639](https://github.com/user-attachments/assets/3f2c1ec7-6dbe-49a3-aedd-8af592dcd8de)
-SMDダイオード→スイッチソケットの順ではんだ付けします。<br/>
+![IMG_5639](https://github.com/user-attachments/assets/3f2c1ec7-6dbe-49a3-aedd-8af592dcd8de)
+LED→SMDダイオード→スイッチソケットの順ではんだ付けします。<br/>
 <br/>
 <br/>
 <br/>
@@ -80,24 +80,27 @@ SMDダイオード→スイッチソケットの順ではんだ付けします�
 <br/>
 
 このチップ抵抗と
-![](image/480289165-cf97941b-9ee8-4c10-bf84-435638d50abd.jpg)
+![IMG_6976](https://github.com/user-attachments/assets/3d64ee09-0674-4a2f-b3a6-4ccfee5e124c)
+
 <br/>
 <br/>
 このMOSFETを基板にはんだ付けしていきます。
-![](image/480289182-cacae60c-cd6c-48a1-9984-fdc310d2eeee.jpg)
+![IMG_6977](https://github.com/user-attachments/assets/c7954456-a1db-4a2e-8916-59eb03b99261)
+
 <br/>
 <br/>
 <br/>
 
 基板裏面の赤枠の部分にはんだ付けしていきます。
-![](image/480289199-d46dc75a-036a-4bf0-bdeb-e56670230e30.jpg)
-![](image/480289232-904d63b0-3a59-4903-be75-18168b018219.jpg)
+![IMG_6978](https://github.com/user-attachments/assets/6da44c1f-37d9-429c-a56c-41e2157881c9)
+![IMG_6978](https://github.com/user-attachments/assets/1066a164-ddc4-4c4d-a158-0bed5a185879)
 <br/>
 <br/>
 
 フラックスを塗布してから青枠のように片側に予備はんだをしていきます。
 はんだごてにごく少量はんだを乗せてからパッドにこて先をあて、こて先を少し立てるようにするとはんだが流れて乗りやすくなると思います。
-![](image/480289258-36eca67b-2711-4263-83fb-180ad9495646.jpg)
+![IMG_6980](https://github.com/user-attachments/assets/d4f99376-4a9d-48b0-a0e3-304a54873160)
+
 <br/>
 <br/>
 
@@ -105,12 +108,14 @@ SMDダイオード→スイッチソケットの順ではんだ付けします�
 予備はんだをこて先で溶かし部品をスライドさせれば上手く付けられると思います。<br/>
 スライドさせたら、はんだごてを離し１−２秒ほど部品をそのまま保持すると上手く行きます。<br/>
 はんだごてより先に保持した部品を動かさないように気をつけましょう。
-![](image/480289275-d2698fca-a977-4286-a89b-c182623f999f.jpg)
+![IMG_6981](https://github.com/user-attachments/assets/292e74ae-63ef-47fd-85d2-b059ce07a822)
+
+
 <br/>
 <br/>
 
 片側がきっちり固定できたら反対側もはんだ付けしていきます。<br/>
-![](image/480289287-d3e959c9-2cfd-42b4-ada5-93a7c82b3fff.jpg)
+![IMG_6982](https://github.com/user-attachments/assets/57217c4a-f415-4bd2-98ba-0d104ec01794)
 
 <br/>
 <br/>
