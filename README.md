@@ -1,4 +1,3 @@
-
 ![IMG_6675](https://github.com/user-attachments/assets/0ad98b09-6703-48db-b49a-03584369a2b4)
 # 夕顔,松風,若紫 / hiyokochan_f10, hiyokochan_n11, hiyokochan_f10tg 共通 ビルドガイド
 夕顔/hiyokochan_f10は以下の特徴を備えるマクロパッドです。
@@ -84,9 +83,9 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 
 <br/>
 <br/>
-このMOSFETを基板にはんだ付けしていきます。
-![IMG_6977](https://github.com/user-attachments/assets/0e695afe-f8f4-49c2-a252-e4355792f926)
 
+このMOSFETを基板にはんだ付けしていきます。
+![IMG_6977](https://github.com/user-attachments/assets/5d748084-6dd7-42fe-8b63-9e23fb46d3f5)
 
 <br/>
 <br/>
