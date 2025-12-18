@@ -85,7 +85,8 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 <br/>
 <br/>
 このMOSFETを基板にはんだ付けしていきます。
-![IMG_6977](https://github.com/user-attachments/assets/c7954456-a1db-4a2e-8916-59eb03b99261)
+![IMG_6977](https://github.com/user-attachments/assets/0e695afe-f8f4-49c2-a252-e4355792f926)
+
 
 <br/>
 <br/>
